@@ -7,4 +7,5 @@ CombinedGraph %>% pivot_longer(.,-x, names_to = "Variable", values_to = "Value")
   geom_line() +
   xlab("Year") +
   ylab("Average Life Expectancy For Females") + 
-  scale_color_discrete(breaks = c("y","z"), labels = c("Eastern", "Western"))
+  scale_color_discrete(breaks = c("y","z"), labels = c("Eastern", "Western")) +
+  labs(title = "Comparing Of Female Life Expectancy During The Cold War")
