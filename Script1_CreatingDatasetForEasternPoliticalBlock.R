@@ -20,3 +20,4 @@ names(life_expectancy_female)
 
 Data_Set_For_Earsten_Political_Block <-life_expectancy_female[c(2,131,134,72,25,145,45,7,10,15,54,61,84,88,90,95,108,135,162,171,173,178),1:43]
 
+#Saved in the folder "output_data_finalproject"

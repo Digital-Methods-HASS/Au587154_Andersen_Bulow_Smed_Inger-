@@ -10,3 +10,4 @@ summary(Data_Set_For_Western_Political_Block)
 
 #It will give me, among other infomation, the mean for each collumns
 # in other words: The general life expectancy for females in the western political block for each of my years.
+#Saved in the folder "output_data_finalproject"

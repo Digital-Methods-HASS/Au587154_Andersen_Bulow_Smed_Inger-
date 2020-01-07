@@ -17,3 +17,5 @@ y <- c(61.00,61.44,62.23,63.01,63.75,64.47,65.15,65.79,66.40,66.96,67.50,67.96,6
 
 # Make Plot:
 plot(x,y, xlab = "Year", ylab = "Average Life Expectancy For Females", main = "Life Expectancy For Females in The Eastern Political Block", type = "o", col="red", pch =20, lwd=2)
+
+#Saved in "Figurs_finalproject"

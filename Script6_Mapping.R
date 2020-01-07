@@ -7,8 +7,7 @@ library(manipulate)
 
 # I am Using the script from http://marcoghislanzoni.com/blog/2013/10/06/interactive-map-of-world-population-with-r/
 # I am Using the countrycode from his used data set from: Source: WPP2012_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xls
-# Downloaded from: http://esa.un.org/wpp/Excel-Data/population.htm
-#Frist 17 rows are deletet and collumns "Major area,.." are changed to "Area" and  "Country codes" is changed to "code"
+#Frist 16 rows are deletet, and the united nations logo, and collumns "Major area,.." are changed to "Area" and  "Country codes" is changed to "code"
 # Converted to CSV in Excel 
 #I will combine the dataset, life_expectancy_female and countrycode1(will prudece from countrycoderaw) to get the country codes
 #Create objet with the two collums that intrest me 
